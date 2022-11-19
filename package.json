@@ -21,6 +21,6 @@
     "markdown-it": "^13.0.1",
     "markdown-it-pdf": "^1.1.6",
     "markdown-it-sub": "^1.0.0",
-    "vuepress": "^0.14.8"
+    "vuepress": "^1.9.7"
   }
 }
